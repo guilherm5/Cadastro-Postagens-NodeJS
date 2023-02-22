@@ -90,6 +90,6 @@ app.post('/editado/:id', function(req, res){
 })
 
 //rodando servidor
-app.listen(4000, function () {
+app.listen(3000, function () {
     console.log('Servidor rodando na porta 3000!');
   });
